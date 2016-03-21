@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8333f849-d494-43ba-bd64-394d3933e972" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/epam/practice02/NuclearShip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/epam/practice02/NuclearShipTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/epam/practice02/ClassDescription.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/task06/com/epam/practice02/NuclearShip$NuclearShipEngine.class" afterPath="$PROJECT_DIR$/out/production/task06/com/epam/practice02/NuclearShip$NuclearShipEngine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/task06/com/epam/practice02/NuclearShip.class" afterPath="$PROJECT_DIR$/out/production/task06/com/epam/practice02/NuclearShip.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/task06/com/epam/practice02/NuclearShipTest.class" afterPath="$PROJECT_DIR$/out/production/task06/com/epam/practice02/NuclearShipTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/epam/practice02/NuclearShip.java" afterPath="$PROJECT_DIR$/src/com/epam/practice02/NuclearShip.java" />
     </list>
     <ignored path="task06.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +33,38 @@
       <file leaf-file-name="NuclearShip.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/epam/practice02/NuclearShip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassDescription.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/epam/practice02/ClassDescription.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Author.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/epam/practice02/Author.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task06.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task06.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,8 +73,8 @@
       <file leaf-file-name="NuclearShipTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/epam/practice02/NuclearShipTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,6 +88,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -69,8 +103,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/epam/practice02/NuclearShip.java" />
         <option value="$PROJECT_DIR$/src/com/epam/practice02/NuclearShipTest.java" />
+        <option value="$PROJECT_DIR$/src/com/epam/practice02/Author.java" />
+        <option value="$PROJECT_DIR$/src/com/epam/practice02/ClassDescription.java" />
+        <option value="$PROJECT_DIR$/src/com/epam/practice02/NuclearShip.java" />
       </list>
     </option>
   </component>
@@ -159,6 +195,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.epam.practice02" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.NuclearShipTest.IsEngineWorkProperly">
     <configuration default="false" name="NuclearShipTest.IsEngineWorkProperly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -600,44 +641,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1458549083229</updated>
-      <workItem from="1458549084831" duration="2945000" />
+      <workItem from="1458549084831" duration="6239000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 16m 55s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 15h 58m 23s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 17m 12s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 15h 58m 25s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 17m 54s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 15h 58m 27s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 17m 58s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 16h 01m 05s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 18m 01s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 16h 01m 07s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 18m 04s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 16h 17m 40s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 18m 06s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 16h 34m 12s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 18m 08s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 16h 34m 14s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 18m 13s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 16h 34m 17s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 12h 18m 16s.xml">
+    <history-entry file="NuclearShipTest_IsEngineWorkProperly - 2016.03.21 at 16h 34m 19s.xml">
       <configuration name="NuclearShipTest.IsEngineWorkProperly" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2945000" />
+    <option name="totallyTimeSpent" value="6239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -651,7 +692,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -682,20 +723,44 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/task06.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/epam/practice02/NuclearShipTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/epam/practice02/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/epam/practice02/ClassDescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/epam/practice02/NuclearShip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
