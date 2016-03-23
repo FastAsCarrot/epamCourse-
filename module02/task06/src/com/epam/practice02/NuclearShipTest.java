@@ -11,7 +11,7 @@ public class NuclearShipTest {
 
     //Obviously, there is no need for the test, but in regards of practice. It is needed.
     @Test
-    public void IsEngineWorkProperly() {
+    public void IsEngineWorkingProperly() {
         NuclearShip ship = new NuclearShip();
 
         assertTrue(ship.workingEngine());
