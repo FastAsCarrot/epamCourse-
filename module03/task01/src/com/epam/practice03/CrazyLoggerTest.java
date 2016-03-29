@@ -12,7 +12,7 @@ public class CrazyLoggerTest {
 
     @Test
     public void getDataTest() {
-        Assert.assertNotNull(cL.getAllLogs());;
+        Assert.assertNotNull(cL.getAllLogs());
     }
 
     @Test
